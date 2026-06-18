@@ -194,6 +194,8 @@ betas suggest the fund's risk profile is not stable over time and may be
 subject to style drift, making historical betas a less reliable guide to
 future risk than they would be for a fund with stationary exposures.
 (The ADF test on rolling betas is somewhat informal, since adjacent windows share 35 of 36 months and are therefore autocorrelated by construction; here the formal test agrees with the clear visual drift in the rolling-beta plot, so the conclusion is well supported.)
+
+---
 ---
 
 ## AI Usage Disclosure
